@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VE6Y5GJ2f4kEuap+2uI9/1QAOp/8S9ALJ98c1jtaJ0g1rYD3H8MdN47Y51lpxvh2f88+rwibEMYe02KCcn/30w==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Prueba técnica\\gurusoft-backend\\gurusoft-backend.Application\\gurusoft-backend.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yesenia\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Yesenia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Yesenia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

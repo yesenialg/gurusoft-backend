@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kEfQffUNm85vRp0gqNNVhYwidHLgHN5m5zyIM0rG5gc=",
+  "Source": "gurusoft-backend.Api",
+  "BasePath": "_content/gurusoft-backend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

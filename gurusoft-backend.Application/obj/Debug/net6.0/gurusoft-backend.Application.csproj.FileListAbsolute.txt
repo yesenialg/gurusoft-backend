@@ -1,0 +1,15 @@
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\bin\Debug\net6.0\gurusoft-backend.Application.deps.json
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\bin\Debug\net6.0\gurusoft-backend.Application.dll
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\bin\Debug\net6.0\gurusoft-backend.Application.pdb
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\bin\Debug\net6.0\gurusoft-backend.Domain.dll
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\bin\Debug\net6.0\gurusoft-backend.Domain.pdb
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.csproj.AssemblyReference.cache
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.AssemblyInfoInputs.cache
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.AssemblyInfo.cs
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.csproj.CopyComplete
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.dll
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\refint\gurusoft-backend.Application.dll
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\gurusoft-backend.Application.pdb
+C:\Proyectos\Prueba técnica\gurusoft-backend\gurusoft-backend.Application\obj\Debug\net6.0\ref\gurusoft-backend.Application.dll
